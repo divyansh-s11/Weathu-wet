@@ -1,5 +1,3 @@
-# Weathu-wet
+# Weathu-wet - https://weatherwet.netlify.app/
 KEY TAKEAWAYS:
-1 This project is solemnly made for watching the weather forecast,
-2 It has sophisticated CSS which look good, 
-3 It is made with the help of OPEN WEATHER API and always fetch data from its API servcice.
+This project is solemnly made for watching the weather forecast, It has sophisticated CSS which looks good, It is made with the help of OPEN WEATHER API and always fetches data from its API service.
